@@ -7,7 +7,7 @@ I'm changing careers into cybersecurity after a decade in precision manufacturin
 - **In progress:** Microsoft SC-200 (Security Operations Analyst)
 
 ## Featured Project
-### [Home SIEM Lab: Detection Engineering on the Elastic Stack](https://github.com/DosCuervos/REPLACE-WITH-LAB-REPO-NAME)
+### [Home SIEM Lab: Detection Engineering on the Elastic Stack](https://github.com/DosCuervos/Home-SIEM-Lab)
 An end-to-end detection lab. Logs ship from a monitored host through Filebeat into Elasticsearch and Kibana, with a scheduled benign baseline, an on-demand attack generator, and a working brute-force detection rule. The write-up walks through the reasoning behind the detections (why they fire, how to avoid false positives, what tells a real attack apart from noise) rather than just the setup steps.
 
 ## Other Work Here
